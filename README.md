@@ -26,7 +26,7 @@ A tener en cuenta:
 
 - Todos los productos deben existir en una estructura de datos dinámica
 - El programa debera mostrar opciones listadas por número y deberá seleccionar el elemento que desee para poder continuar
-- El programa deberá poder diferenciar entre usuario y vendedor para mostrar las opciones de cada rol (usar instanceOf)
+- El programa deberá poder diferenciar entre usuario y vendedor para mostrar las opciones de cada rol (opcional: usar instanceOf)
 - Se deberá poder "salir" del programa
 
 
