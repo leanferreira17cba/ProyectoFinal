@@ -2,7 +2,7 @@
 
 Enunciado:
 
-Nos requieren desarrollar una aplicación de consola con la cual empleados y usuarios puedan interactuar y llevar a cabo ciertas tareas específicas de cada rol.
+Nos requieren desarrollar una aplicación de consola con la cual vendedores y clientes puedan interactuar y llevar a cabo ciertas tareas específicas de cada rol.
 
 Alcances para cada rol
 
@@ -13,8 +13,6 @@ Debe permitir a los vendedores:
 - Modificar un producto
 - Eliminar un producto
 - Eliminar todos los productos de cierta categoria
-  
-Todos los productos deben existir en una estructura de datos dinámica
 
 Debe permitir a los clientes:
 
@@ -25,6 +23,10 @@ Debe permitir a los clientes:
 - Obtener el precio promedio para los productos de una de las categorias a elección del usuario
 
 A tener en cuenta:
-- El programa debera mostrar opciones listadas por número y deberá seleccionar el elemento que desee
-- El programa deberá poder diferenciar entre usuario y vendedor
+
+- Todos los productos deben existir en una estructura de datos dinámica
+- El programa debera mostrar opciones listadas por número y deberá seleccionar el elemento que desee para poder continuar
+- El programa deberá poder diferenciar entre usuario y vendedor para mostrar las opciones de cada rol (usar instanceOf)
 - Se deberá poder "salir" del programa
+
+
